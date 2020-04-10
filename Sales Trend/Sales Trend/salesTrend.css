@@ -1,0 +1,20 @@
+/*Sales Tredn line Style*/
+.line {
+  fill: none;
+  stroke: rgb(7, 4, 184);
+  stroke-width: 4px;
+}
+/*toolip tag on the sales line Style*/
+.tooltip {
+  position: absolute;
+  width: 80px;
+  height: 50px;
+  padding: 10px;
+  font: 12px sans-serif;
+  text-align: center;
+  color: rgb(3, 0, 0);
+  background:  rgb(255, 238, 0);
+  border: 1;
+  border-radius: 10px;
+  display: none;
+}
